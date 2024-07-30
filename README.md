@@ -1,4 +1,3 @@
-```markdown
 # Drowsiness Detection Model
 
 ## Overview
@@ -61,10 +60,3 @@ Before you begin, ensure you have Python installed on your machine. You can down
    python drowsiness_detection.py
    ```
    Ensure your webcam is enabled, and the script will start processing the video feed.
-
-## Evaluation
-
-After training, evaluate the model's performance using a separate validation set. Monitor metrics such as Mean Average Precision (mAP) to assess accuracy.
-
-
-```
